@@ -6,6 +6,9 @@
   "scripts": {
     "test": "npm test"
   },
+  "devDependencies":{
+    "selenium-webdriver": "3.6.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Namrata-m13/html.git"
